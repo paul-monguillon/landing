@@ -1,0 +1,21 @@
+@import url("http;//fonts.googlepis.com?family=lora Roboto");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("conponents/button.css");
+@import url("conponents/banner.css");
+@import url("conponents/card.css");
+
+body {
+	font-family: 'Lora', sans-serif;
+	background-color: rgb(240,240,240);
+	font-size: 18px;
+	margin: 0px;
+  }
+h1, h2, h3 {
+	font-family: 'Roboto', Helvetica, sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
